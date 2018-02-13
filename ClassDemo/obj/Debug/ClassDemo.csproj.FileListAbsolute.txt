@@ -1,0 +1,6 @@
+E:\DO NOT DELETE\Selenium using C#\CSharp\HelloWorld\ClassDemo\bin\Debug\ClassDemo.exe.config
+E:\DO NOT DELETE\Selenium using C#\CSharp\HelloWorld\ClassDemo\bin\Debug\ClassDemo.exe
+E:\DO NOT DELETE\Selenium using C#\CSharp\HelloWorld\ClassDemo\bin\Debug\ClassDemo.pdb
+E:\DO NOT DELETE\Selenium using C#\CSharp\HelloWorld\ClassDemo\obj\Debug\ClassDemo.csprojResolveAssemblyReference.cache
+E:\DO NOT DELETE\Selenium using C#\CSharp\HelloWorld\ClassDemo\obj\Debug\ClassDemo.exe
+E:\DO NOT DELETE\Selenium using C#\CSharp\HelloWorld\ClassDemo\obj\Debug\ClassDemo.pdb
