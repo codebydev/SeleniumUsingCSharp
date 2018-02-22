@@ -59,7 +59,9 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="AdvancedMouseAndKeyboardInteractions.cs" />
     <Compile Include="AlertsFramesAndWindows.cs" />
+    <Compile Include="DropDownCheckboxAndRadiobutton.cs" />
     <Compile Include="SelBasics.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
