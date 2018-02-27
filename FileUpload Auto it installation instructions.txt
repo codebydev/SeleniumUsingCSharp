@@ -1,0 +1,17 @@
+Welcome to Selenium using C#- day 12
+
+Step 1: Download AutoIt from "https://www.autoitscript.com/site/autoit/downloads/"
+Step 2: Install autoit using default settings (Do not change any options)
+Step 3: Verify successful installation by navigating to "C:\Program Files (x86)\AutoIt3"
+Step 4: Launch the AutoIt Editor SciTE "C:\Program Files (x86)\AutoIt3\SciTE"
+Step 5: Write script to handle the file open dialog box
+Step 6: Save the file
+Step 7: RIght click on the created file
+Step 8: Select Compile Script(x86)
+Step 9: Copy the generated exe file to Project folder
+Step 10: Right click on the exe file in solution explorer
+Step 11: Select properties
+Step 12: Set Copy to output folder to "Copy always"
+
+
+
