@@ -62,11 +62,18 @@
     <Compile Include="AdvancedMouseAndKeyboardInteractions.cs" />
     <Compile Include="AlertsFramesAndWindows.cs" />
     <Compile Include="DropDownCheckboxAndRadiobutton.cs" />
+    <Compile Include="FileUploadDemo.cs" />
     <Compile Include="SelBasics.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Synchronization.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="uploadImage.exe">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
