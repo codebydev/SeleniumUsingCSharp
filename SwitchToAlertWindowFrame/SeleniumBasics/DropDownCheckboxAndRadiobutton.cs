@@ -87,8 +87,9 @@ namespace SeleniumBasics
             driver.Url = "https://www.facebook.com/";
             Thread.Sleep(4000);
 
-            ((IJavaScriptExecutor)driver).ExecuteScript()
+            ((IJavaScriptExecutor)driver).ExecuteScript("alert('Hello everyone');");
 
+            Thread.Sleep(4000);
             driver.Quit();
         }
 
